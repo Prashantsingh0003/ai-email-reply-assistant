@@ -1,4 +1,4 @@
-# AI-Powered-Mail-Assistant
+# AI-Email-Reply-Assistant
 
 An AI-powered Chrome Extension integrated with Gmail that generates intelligent email replies using Spring Boot, Spring AI, and Google Gemini API.
 
