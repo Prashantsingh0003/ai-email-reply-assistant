@@ -16,13 +16,13 @@ An AI-powered Chrome Extension integrated with Gmail that generates intelligent 
 
 🎯 Boosts productivity by reducing manual email drafting time.
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 - Backend: Java, Spring Boot, Spring AI, Gemini API
 
 - Frontend / Extension: JavaScript, HTML, CSS, Chrome Extension APIs.
 
-## ⚡ How It Works
+##  How It Works
 
 The project runs as a Chrome Extension directly integrated into the Gmail application.
 
@@ -38,13 +38,16 @@ The project runs as a Chrome Extension directly integrated into the Gmail applic
 
 - The AI-generated reply is instantly displayed back in the Gmail compose window.
 
-### 🧪 Testing
+###  Testing
 
 * All backend APIs tested using Postman.
 
 * Verified seamless integration between Chrome Extension and Spring Boot backend.
 
-### 📌 Future Enhancements
+### Business Perspective
+This project was analyzed from a business perspective to ensure alignment with user needs, communication efficiency, and functional requirements.
+
+###  Future Enhancements
 
 ✉️ Support for multiple email providers (Outlook, Yahoo).
 
